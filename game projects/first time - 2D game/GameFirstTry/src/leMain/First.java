@@ -1,3 +1,5 @@
+// making the window :D
+
 package leMain;
 
 import javax.swing.JFrame;
