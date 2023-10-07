@@ -1,4 +1,4 @@
-// making the window :D
+// making the window for the first time lolol XD
 
 package leMain;
 
