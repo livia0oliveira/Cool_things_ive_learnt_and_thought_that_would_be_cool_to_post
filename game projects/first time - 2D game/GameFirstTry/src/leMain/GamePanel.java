@@ -1,3 +1,5 @@
+// actual window propotions and thingys
+
 package leMain;
 
 import java.awt.Color;
